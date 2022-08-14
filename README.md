@@ -28,7 +28,7 @@ git clone https://github.com/TJS-95/bills.git
 npm start
 ```
 
-4. 启动完成后打开浏览器访问 http://localhost:3000（前端的项目代码已经打包在server里面，可以直接访问上面的地址即可，代码包在server/web）
+4. 启动完成后打开浏览器访问 http://localhost:3000。（前端的项目代码已经打包在server里面，可以直接访问上面的地址即可，代码包在server/web）
 
 如果需要运行前端部分代码，可以运行以下操作：
 
