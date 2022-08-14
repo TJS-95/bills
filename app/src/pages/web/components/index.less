@@ -1,0 +1,18 @@
+.bill-item {
+    &+.bill-item {
+        border-top: 1px solid #ccc;
+    }
+    display: flex;
+    justify-content: space-between;
+    // padding: 10px;
+    line-height: 32px;
+    .category {
+        font-weight: 600;
+    }
+    .right {
+        text-align: right;
+    }
+    .amount {
+        color: red;
+    }
+}

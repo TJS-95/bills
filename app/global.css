@@ -1,0 +1,25 @@
+@import url('~antd/dist/antd.css');
+html, body {
+    height: 100%;
+    overflow: hidden;
+}
+#root {
+    height: 100%;
+}
+.layout {
+    padding: 100px;
+}
+
+.flex-justify {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+
+.empty {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #999;
+}
