@@ -41,7 +41,7 @@ npm start
 1. 进入目录安装依赖
 
 ```bash
- cd app // 进入服务端代码
+ cd app // 进入前端代码
 
  npm install
 ```
